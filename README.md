@@ -1,6 +1,9 @@
 # Projects
 This is a collection of projects I have contributed to in the past.
 
+## Robotics
+- [Senior Design Champion Washer Sorting Robot](https://github.com/efwoods/SeniorDesign)
+  - This is the code that won the Senior Design competition at Clemson University.
 
 ## Research
 - [Watson-Precision-Agriculture](https://github.com/efwoods/Watson-Precision-Agriculture)
@@ -25,6 +28,3 @@ This is a collection of projects I have contributed to in the past.
 - [Watson-Visual-Recognition](https://github.com/efwoods/Watson-Visual-Recognition)
     - This Repository Contains shell scripts which are used to control the creation and deletion of classifiers to classify if a part of a bridge contains rust.
 
-## Robotics
-- [Senior Design Champion Washer Sorting Robot](https://github.com/efwoods/SeniorDesign)
-  - This is the code that won the Senior Design competition at Clemson University.
